@@ -1,0 +1,15 @@
+{
+    "produto": [
+        { "id": 1,
+         "nome":"mouse", 
+         "preco": 100,
+         "imagem":"https://www.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-blue-gallery-01.png"
+         },
+         { "id": 2,
+            "nome":"computado", 
+            "preco": 2000,
+            "imagem":"https://www.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-blue-gallery-01.png"
+            }
+        
+    ]
+}
